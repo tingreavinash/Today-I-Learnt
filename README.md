@@ -18,3 +18,7 @@
 - Get the IP of any node present on cluster: `kubectl get nodes --selector=owner=<owner> -o wide`
 - Get the debug port of service: `kubectl -n <namespace> get svc <service_name>`
 - Learnt about hot swapping java code on remote host
+
+## TIL: 06-08-2021
+- Application performance can be improved by compressing JSON using gzip. It will reduce the JSON size by 75%. Which eventually improves API turnaround time significantly.
+- Instead of using simple JSON library, you can use minidev JSON library which is better in performance.
