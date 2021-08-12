@@ -6,7 +6,7 @@
 * Recently opened/edited files: `Ctrl+E`
 * Find in Files: `Ctrl+H`
 * Choose the content to Paste: `Ctrl+Shift+V`
----
+
 **Docker Caching - To avoid invalidating the cache**<br>
 **Steps:**
  1. Start your Dockerfile with commands that are less likely to change
