@@ -23,3 +23,8 @@
 - Application performance can be improved by compressing JSON using gzip. It will reduce the JSON size by 75%. Which eventually improves API turnaround time significantly.
 - Instead of using simple JSON library, you can use minidev JSON library which is better in performance.
 - You can generate mock data in bulk from this website: https://www.mockaroo.com/
+
+## TIL: 12-08-2021
+- If your organisation used Jira and Gitlab, you should enable smart commits on Gitlab integration settings. It will automatically link every commit to corresponding Jira ticket.
+
+
