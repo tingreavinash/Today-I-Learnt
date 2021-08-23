@@ -27,4 +27,9 @@
 ## TIL: 12-08-2021
 - If your organisation used Jira and Gitlab, you should enable smart commits on Gitlab integration settings. It will automatically link every commit to corresponding Jira ticket.
 
+## TIL: 23-08-2021
+- Sharding is a method of splitting and storing a single logical dataset in multiple databases. Sharding is necessary if your dataset is too large to be stored in a single database.
+- Sharding is also known as horizonatal partitioning.
+- Sharding adds addtional programming and operational complexity to your application. Decide carefully if you really needs sharding!!
+
 
