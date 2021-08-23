@@ -31,5 +31,6 @@
 - Sharding is a method of splitting and storing a single logical dataset in multiple databases. Sharding is necessary if your dataset is too large to be stored in a single database.
 - Sharding is also known as horizonatal partitioning.
 - Sharding adds addtional programming and operational complexity to your application. Decide carefully if you really needs sharding!!
+- Refer: https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6
 
 
