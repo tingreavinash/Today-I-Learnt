@@ -33,4 +33,8 @@
 - Sharding adds addtional programming and operational complexity to your application. Decide carefully if you really needs sharding!!
 - Refer: https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6
 
+## TIL: 27-08-2021
+- Revised cocepts about bit, byte, computer memory. (Refer: https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa)
+- Learnt bitwise operations (Refer: https://code.tutsplus.com/articles/understanding-bitwise-operators--active-11301)
+
 
